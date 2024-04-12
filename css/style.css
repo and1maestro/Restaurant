@@ -415,6 +415,10 @@ footer{
     transform: rotate(-35deg);
   }
 
+  .home{
+    padding: 0px 20px 0px 20px;
+  }
+  
   .about{
     flex-direction: column;
     text-align: center;
