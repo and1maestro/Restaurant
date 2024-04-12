@@ -455,7 +455,6 @@ footer{
   }
 
   .reviews-container{
-    width: 380px;
     padding: 0px 15px 70px 15px;
   }
 
@@ -470,6 +469,7 @@ footer{
   .form-container{
     padding-top: 20px;
     padding-bottom: 30px;
+    max-width: 390px;
   }
 
   footer{
